@@ -1,0 +1,29 @@
+// Deafult styles global
+html {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 10px;
+    color: #646464;
+}
+body {
+    box-sizing: border-box;
+}
+
+// Color variables
+$white: #fff;
+$black: #000;
+
+$blue: #002f9d;
+$dark-blue: #021f59;
+$light-blue:#38bdff;
+$yellow:#ffed28;
+$grey:#999999;
+$dark-grey:#031326;
+$light-grey:#f4f2f2;
+$middle-grey:#e5e5e5;
+
+
+$tablet: "min-width: 479px";
+$desktop: "min-width: 770px";
+$large-desktop: "min-width: 1281px";
+
+
